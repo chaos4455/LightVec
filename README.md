@@ -11,6 +11,9 @@
 
 **Idiomas:** [Português](#português) | [English](#english) | [Español](#español)
 
+![ChatGPT Image 21 de abr  de 2025, 23_07_39](https://github.com/user-attachments/assets/505b4e47-d505-43af-adf9-cc3838c8a41f)
+
+
 ---
 
 <a name="português"></a>
