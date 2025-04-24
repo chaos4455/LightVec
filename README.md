@@ -18,7 +18,7 @@
 
 <a name="português"></a>
 
-## 🇧🇷 LightVec (Português)
+## LightVec (Português)
 
 **LightVec** é um banco de dados vetorial (vector database) **leve** 🤏 e de **tamanho reduzido** 💾, projetado com foco em **eficiência** e **confiabilidade**. Construído utilizando **Python** 🐍 e **FastAPI** ⚡, possui um backend robusto, ideal para micro aplicações e microsserviços.
 
@@ -79,7 +79,7 @@ Procurando colaboradores ou tem oportunidades de projetos interessantes em IA, b
 
 <a name="english"></a>
 
-## 🇬🇧 LightVec (English)
+## LightVec (English)
 
 **LightVec** is a **lightweight** 🤏 and **small-size** 💾 vector database designed with **efficiency** and **reliability** in mind. Built using **Python** 🐍 and **FastAPI** ⚡, it aims to feature a robust backend perfect for micro applications and microservices.
 
@@ -140,7 +140,7 @@ Looking for collaborators or have interesting project opportunities in AI, vecto
 
 <a name="español"></a>
 
-## 🇪🇸 LightVec (Español)
+## LightVec (Español)
 
 **LightVec** es una base de datos vectorial (vector database) **ligera** 🤏 y de **tamaño reducido** 💾, diseñada con un enfoque en la **eficiencia** y la **confiabilidad**. Construida utilizando **Python** 🐍 y **FastAPI** ⚡, aspira a tener un backend robusto, ideal para micro aplicaciones y microservicios.
 
